@@ -17,7 +17,7 @@ The <b>Software Engineering Life Cycle (SELC)</b>, also known as the <b>Software
     </p>
 
     <!-- First Image (Use actual hosted image URL or base64) -->
-    <img src="/sdlc.png
+    <img src="/sdlc.png>
          style="width: 100%; max-width: 600px; border: 2px solid #ccc; margin-top: 10px;">
 
     <!-- List of SDLC Phases -->
